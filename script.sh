@@ -2,7 +2,7 @@ echo "******************"
 echo "Script by Trisout"
 echo "******************"
 echo "Warning: This Script is made for 18.0.53 of plesk panel. It is possible that it does not work or that it destroys your plesk on higher versions."
-read -p
+read -p "Press any key to resume ..."
 sleep 5
 rm -rf /usr/local/psa/admin/htdocs/modules/OsSav
 plesk bin extension --uninstall OsSav
