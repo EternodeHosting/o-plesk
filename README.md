@@ -1,2 +1,2 @@
 # o-plesk
-`bash <(curl -s https://raw.githubusercontent.com/trisout78/o-plesk/main/install.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/trisout78/o-plesk/main/script.sh)`
