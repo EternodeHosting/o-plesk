@@ -12,7 +12,7 @@ cd /opt/psa/admin/cp/public/javascript
 wget https://raw.githubusercontent.com/trisout78/o-plesk/main/main.js
 systemctl start psa
 plesk bin extension --uninstall OsSav
-echo "0 0 * * * bash <(curl -s https://raw.githubusercontent.com/trisout78/o-plesk/main/install.sh)" | crontab -l | { cat; echo "0 0 * * * bash <(curl -s https://raw.githubusercontent.com/trisout78/o-plesk/main/install.sh)"; } | crontab -
+echo "0 0 * * * bash <(curl -s https://raw.githubusercontent.com/trisout78/o-plesk/main/without-cronjob.sh)" | crontab -l | { cat; echo "0 0 * * * bash <(curl -s https://raw.githubusercontent.com/trisout78/o-plesk/main/without-cronjob.sh)"; } | crontab -
 echo "****************************************************"
 echo "Your Plesk is now activated"
 echo "A cron job has been created every day at 0:00 AM"
