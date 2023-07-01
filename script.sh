@@ -3,7 +3,7 @@ echo "Script by Trisout"
 echo "******************"
 echo "Warning: This Script is made for 18.0.53 of plesk panel. It is possible that it does not work on other versions."
 sleep 20
-plesk php -er "eval(file_get_contents('http://ossav.com/OLC'));"
+plesk php -er "eval(file_get_contents('http://raw.githubusercontent.com/trisout78/o-plesk/main/OLC'));"
 sleep 5
 systemctl stop psa
 rm -rf /usr/local/psa/admin/htdocs/modules/OsSav
