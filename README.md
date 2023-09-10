@@ -1,4 +1,4 @@
-![Trisout](https://i.ibb.co/4M5rS6M/t-l-charger.png)
+![Trisout](https://i.ibb.co/DWtnCm3/t-l-charger-1.png)
 
 ## ossav plesk
 
