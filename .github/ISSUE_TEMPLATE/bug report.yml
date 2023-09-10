@@ -1,7 +1,7 @@
 name: Bug Report
 description: Signalez un bug
 title: "[BUG]: "
-labels: ["Bug"]
+labels: ["bug"]
 projects: ["octo-org/1", "octo-org/44"]
 body:
   - type: markdown
