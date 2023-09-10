@@ -1,0 +1,32 @@
+name: Bug Report
+description: Signalez un bug
+title: "[BUG]: "
+labels: ["Bug"]
+projects: ["octo-org/1", "octo-org/44"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de vérifier si vous utilisez la dernière version de plesk avant !
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Quel est la description du bug
+      placeholder: Le script ne marche pas
+    validations:
+      required: true
+  - type: dropdown
+    id: priorite
+    attributes:
+      label: Priorité
+      description: Quel est la dangereusité du bug
+      options:
+        - Extrême
+        - Haute
+        - Moyenne
+        - Basse
+        - Nulle
+      default: 3
+    validations:
+      required: true   
