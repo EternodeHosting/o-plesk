@@ -8,4 +8,4 @@ bash <(curl -s https://raw.githubusercontent.com/trisout78/o-plesk/main/script.s
 ```
 If there is a problem, please open an [Issue](https://github.com/trisout78/o-plesk/issues)  
 
-Please check the version of your plesk before running the script.
+**__Please check the version of your plesk before running the script.__**
