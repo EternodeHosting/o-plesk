@@ -10,7 +10,7 @@ systemctl stop psa
 rm -rf /usr/local/psa/admin/htdocs/modules/OsSav
 rm /opt/psa/admin/cp/public/javascript/main.js
 cd /opt/psa/admin/cp/public/javascript
-wget https://raw.githubusercontent.com/trisout78/o-plesk/main/main.js
+wget https://raw.githubusercontent.com/EternodeHosting/o-plesk/main/main.js
 systemctl start psa
 plesk bin extension --uninstall OsSav
 echo "****************************************************"
