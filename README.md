@@ -1,5 +1,4 @@
-# ⚠️ This Project is Archived ⚠️
-![Trisout](https://i.ibb.co/DWtnCm3/t-l-charger-1.png)
+![Plesk](https://i.ibb.co/DWtnCm3/t-l-charger-1.png)
 
 ## ossav plesk
 
