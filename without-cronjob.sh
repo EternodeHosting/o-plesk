@@ -14,6 +14,7 @@ else
 fi
 systemctl start psa
 plesk bin extension --uninstall OsSav
+mkdir /root/cronjob-ok
 echo "****************************************************"
 echo "Your Plesk is now activated"
 echo "****************************************************"
