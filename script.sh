@@ -1,7 +1,7 @@
-echo "******************"
+echo "*******************************"
 echo "Plesk Free Trail Reactivator"
 echo "Script by Trisout"
-echo "******************"
+echo "*******************************"
 echo "For support contact me on discord"
 sleep 10
 echo "Activating Plesk..."
