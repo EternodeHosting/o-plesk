@@ -1,6 +1,6 @@
 ![Plesk](https://i.ibb.co/DWtnCm3/t-l-charger-1.png)
 
-## ossav plesk
+## Ossav Plesk
 
 Script to get the plesk free try plesk for free forever without ad
 ```bash
