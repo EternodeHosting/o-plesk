@@ -26,7 +26,7 @@ if [ -e "$fichier" ]; then
     sed -i '/\/\*\* OsSav v1\.98 \*\*\//,/\/\*\* Fin de OsSav v1\.98 \*\*\//d' "$fichier"
     echo "Removed WaterMark"
 else
-    echo "An Error has occured when removing WaterMark. Please Relaunch the script"
+    echo "An Error has occured when removing WaterMark. Please Relaunch the script or contact me"
 fi
 sleep 1
 echo "Restaring Plesk..."
