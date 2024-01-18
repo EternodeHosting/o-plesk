@@ -42,6 +42,6 @@ sleep 1
 plesk bin extension --uninstall OsSav
 echo "Ossav Plesk Extention Removed"
 echo "***************************************************************"
-echo "Your Plesk is now activated"
+echo "Your Plesk free trial is now activated"
 echo "Contact me if a error has occured"
 echo "***************************************************************"
