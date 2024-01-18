@@ -22,6 +22,7 @@ rm -rf /usr/local/psa/admin/htdocs/modules/OsSav
 echo "Module Folder Removed"
 sleep 1
 echo "Removing WaterMark..."
+sleep 1
 fichier="/opt/psa/admin/cp/public/javascript/main.js"
 if [ -e "$fichier" ]; then
     sed -i '/\/\*\* OsSav v1\.98 \*\*\//,/\/\*\* Fin de OsSav v1\.98 \*\*\//d' "$fichier"
