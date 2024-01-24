@@ -1,6 +1,5 @@
-apt install figlet
-figlet PLESK FREE TRIAL REACTIVATOR
 echo "***********************************"
+echo "Free Plesk Script Reactivator"
 echo "Script by Trisout"
 echo "For support contact me on discord"
 echo "***********************************"
