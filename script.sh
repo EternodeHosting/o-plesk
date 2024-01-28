@@ -37,7 +37,6 @@ systemctl start psa
 echo "Plesk restarted"
 sleep 1
 echo "Removing Ossav Plesk Extention..."
-sleep 1
 plesk bin extension --uninstall OsSav
 echo "Ossav Plesk Extention Removed"
 echo "***************************************************************"
