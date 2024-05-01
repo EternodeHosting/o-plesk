@@ -2,6 +2,7 @@ echo "***********************************"
 echo "Free Plesk Script Reactivator"
 echo "Script by Trisout"
 echo "For support contact me on discord"
+echo "Project is no longer supported"
 echo "***********************************"
 sleep 10
 echo "Activating Plesk..."
